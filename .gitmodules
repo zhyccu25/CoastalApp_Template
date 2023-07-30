@@ -4,9 +4,3 @@
 [submodule "NWM"]
 	path = NWM
 	url = https://github.com/zhyccu25/nwm_public_nuopc
-[submodule "SCHISM/schism"]
-	path = SCHISM/schism
-	url = https://github.com/zhyccu25/schism
-[submodule "SCHISM/schism-esmf"]
-	path = SCHISM/schism-esmf
-	url = https://github.com/zhyccu25/schism-esmf
